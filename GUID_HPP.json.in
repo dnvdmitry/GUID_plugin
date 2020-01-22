@@ -1,0 +1,11 @@
+{
+    \"Name\" : \"GUID_HPP\",
+    \"Version\" : \"0.0.1\",
+    \"CompatVersion\" : \"0.0.1\",
+    \"Vendor\" : \"DNv\",
+    \"Copyright\" : \"(C) Elanor Ltd\",
+    \"License\" : \"\",
+    \"Description\" : \"\",
+    \"Url\" : \"http://www.elanor.su\",
+    $$dependencyList
+}
